@@ -15,6 +15,8 @@ This project performs Exploratory Data Analysis (EDA) on a retail sales dataset 
 - **Period:** 1 January 2023 to 1 January 2024
 - **Columns:** Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit, Total Amount
 - **Data quality:** No missing values and no duplicate rows
+  
+  > **Note:** The dataset has no product names, so product analysis is done at category level.
 
 ## Tools Used
 
